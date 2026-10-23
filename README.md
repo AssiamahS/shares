@@ -1,5 +1,7 @@
 # Shares
 
+**Install:** open [assiamahs.github.io/shares/install.html](https://assiamahs.github.io/shares/install.html) in Safari on your iPhone.
+
 iOS portfolio tracker that fixes what the popular ones get wrong:
 
 - **Merged per-ticker view** — hold AAPL in three portfolios, see one combined position (plus the per-portfolio breakdown)
